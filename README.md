@@ -4,6 +4,6 @@
 # [Cats_vs_dogs](https://github.com/ZhangXiangCHN/Kaggle/tree/master/Cats_vs_Dogs)
 Cats_vs_dogs 是Kaggle上一个图像识别的基础项目，本代码基于**Kevin Xu**的教学视频
 
-YouTube网址:[点这里]（https://www.youtube.com/channel/UCVCSn4qQXTDAtGWpWAe4Plw）
+YouTube地址:[点这里](https://www.youtube.com/channel/UCVCSn4qQXTDAtGWpWAe4Plw)
 
-他的GitHub网址：[在这里]（https://github.com/kevin28520）
+GitHub地址：[在这里](https://github.com/kevin28520)
